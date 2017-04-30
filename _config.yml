@@ -5,6 +5,7 @@ description: This is my web page
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
+theme: minima
 username: William 
 user_description:I have very good experience in UI development, Front end development, Web User Interface (UI) using HTML 5, DHTML, XHTML, CSS 3, JavaScript, DOM, XML, Angular Js, React JS, JSP, JSON, JSF, Jquery and Ajax that follows with WCAG, Web 2.0..
 user_title: Web Developer
